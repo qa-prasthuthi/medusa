@@ -1,0 +1,11 @@
+Here is some common content.
+
+<<<<<<< HEAD
+This is the content from the current branch (HEAD).
+It has some specific changes here.
+=======
+This is the content from the incoming branch.
+It has different changes here.
+>>>>>>> incoming-branch
+
+And here is some more common content.
